@@ -1,0 +1,14 @@
+{
+    "dataset_file": "pune_cleaned_reference.csv",
+    "dataset_rows_used": 27700,
+    "number_of_features": 50,
+    "number_of_amenities": 35,
+    "training_rows": 22160,
+    "testing_rows": 5540,
+    "selected_model": "Extra Trees",
+    "mae": 1809764.5211226745,
+    "rmse": 4836665.698415562,
+    "r2": 0.9288407252775713,
+    "random_state": 42,
+    "test_size": 0.2
+}

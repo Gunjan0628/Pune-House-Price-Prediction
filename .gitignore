@@ -189,3 +189,6 @@ models/tuned_model_candidate.joblib
 __pycache__/
 .ipynb_checkpoints/
 day1-staged-backup.patch
+
+# Local README backup
+README_backup.md
